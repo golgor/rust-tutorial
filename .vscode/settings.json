@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./Ch.2-guessing_game/Cargo.toml"
+    ]
+}
